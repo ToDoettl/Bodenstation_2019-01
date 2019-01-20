@@ -149,7 +149,7 @@ void loop() {
   //Antennentest
   if (n != 1){
 
-  move_antenna(42388.71, 173168.13, 700);//E
+  move_antenna(42388.71, 173168.13, 700); //E
   move_antenna(42441.68, 173178.47, 700); //C
   move_antenna(42486.91, 173155.77, 700); //D
   move_antenna(42396.34, 173189.83, 700); //G
